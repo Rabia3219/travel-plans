@@ -8,3 +8,4 @@ Hawaii is a beautiful Pacific island known for its beaches, volcanoes, and tropi
 - See Volcanoes National Park
 - Try Hawaiian food
 - Learn about Hawaiian culture
+![Image description](image-url)
